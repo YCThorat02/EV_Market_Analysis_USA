@@ -1,4 +1,6 @@
 # EV_Market_Analysis_USA
+![ev](https://github.com/user-attachments/assets/06757970-6b30-45aa-9298-2d21c2b88177)
+
 
 ## Overview
 This project analyzes electric vehicle (EV) adoption trends across the U.S., highlighting a major growth surge since 2021, with 2023 exceeding registrations from 2016–2020 combined. Higher-income groups (above $50,000) show greater EV adoption, while affordability remains a barrier for lower-income segments. California leads in charging infrastructure due to its wealthy population and policies. Factors like electricity cost, political engagement, education level, and employment rates also influence adoption patterns. Emerging states like New Mexico show strong investment potential, while Oklahoma recorded the highest YOY EV growth in 2018.
